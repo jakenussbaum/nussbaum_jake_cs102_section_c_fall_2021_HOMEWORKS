@@ -8,7 +8,7 @@ int main() {
 	hours = (inputminutes/60); 
 	minutes = (inputminutes -(60*hours));
 	printf("Hours: %d", hours);
-    printf("Minutes: %d", minutes);
+    printf(" Minutes: %d ", minutes);
 	
 	return 0;
 
